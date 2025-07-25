@@ -40,7 +40,7 @@ def index():
             if not c.fetchone():
                 break
 
-        c.execute("INSERT INTO urls (short_code, original_url) VALUES (?, ?)", (code, original_url))
+        c.execute("INSERT INTO URLs (short_code, original_url) VALUES (?, ?)", (code, original_url))
         conn.commit()
         conn.close()
 
