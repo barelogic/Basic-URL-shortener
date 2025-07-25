@@ -1,7 +1,7 @@
 # URL Shortener
 Web-based URL Shortener built on FLASK and SQLite.  
 
-##Features
+## Features
 - Shorten Long URLs
 - Redirect using short,randomly generated codes(using random module).  
 ## Tools Used
