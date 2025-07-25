@@ -1,7 +1,7 @@
 # URL Shortener
 Web-based URL Shortener built on FLASK and SQLite.  
 
-##Features
+## Features
 - Shorten Long URLs
 - Redirect using short,randomly generated codes(using random module).  
 ## Tools Used
@@ -11,11 +11,12 @@ Web-based URL Shortener built on FLASK and SQLite.
 - HTML/CSS/ (minimal) JS
 
 ## Installation
-```git clone https://github.com/barelogic/Basic-URL-shortener &&
+```
+git clone https://github.com/barelogic/Basic-URL-shortener &&
 cd Basic-URL-shortener && 
-pip install -r requirements.txt && python app.
+pip install -r requirements.txt && python app.py
 ```
 ## To Do 
-- Click Analytics
-- Custom Aliases
+- [ ] Click Analytics  
+- [ ] Custom Aliases
 
