@@ -16,6 +16,6 @@ cd Basic-URL-shortener &&
 pip install -r requirements.txt && python app.
 ```
 ## To Do 
-[ ] Click Analytics
-[ ] Custom Aliases
+-[] Click Analytics
+-[] Custom Aliases
 
