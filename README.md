@@ -11,7 +11,8 @@ Web-based URL Shortener built on FLASK and SQLite.
 - HTML/CSS/ (minimal) JS
 
 ## Installation
-```git clone https://github.com/barelogic/Basic-URL-shortener &&
+```
+git clone https://github.com/barelogic/Basic-URL-shortener &&
 cd Basic-URL-shortener && 
 pip install -r requirements.txt && python app.
 ```
